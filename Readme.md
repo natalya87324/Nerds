@@ -7,6 +7,7 @@ This is a training project from [HTML Academy](https://www.htmlacademy.ru) to bu
 ## Features
 - Grid layout
 - Flexbox
+- Forms
 - Animations for popup window in the contact section
 - Made with accessibility in mind
 
