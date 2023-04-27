@@ -14,5 +14,4 @@ This is a training project from [HTML Academy](https://www.htmlacademy.ru) to bu
 - Add slider change on click on the main page
 
 
-## Contact
-- GitHub [@natalya87324](https://github.com/natalya87324)
+
