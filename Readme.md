@@ -1,12 +1,18 @@
-# A website for a design studio "Nёrds"
+# Design studio "Nёrds"
 
 ## Overview
 
-The project required to build a simple website for a design studio using HTML, CSS and a bit of JavaScript. 
+This is a training project from [HTML Academy](https://www.htmlacademy.ru) to build a simple website for an abstract design studio. 
 
 ## Features
+- Grid layout
+- Flexbox
+- Animations for popup window in the contact section
+- Made with accessibility in mind
 
 ## Things to improve
+- Add slider change on click on the main page
+
 
 ## Contact
 - GitHub [@natalya87324](https://github.com/natalya87324)
