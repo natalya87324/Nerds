@@ -14,5 +14,8 @@ This is a training project from [HTML Academy](https://www.htmlacademy.ru) to bu
 ## Things to improve
 - Add slider change on click on the main page
 
+[VIEW PROJECT](https://natalya87324.github.io/Nerds/)
+
+
 
 
